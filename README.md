@@ -14,8 +14,15 @@ A modern, responsive bus booking web app built with a sleek UI and powerful fron
 
 ---
 Domains
+
+
 travel-track-book.vercel.app
+
+
 travel-track-book-git-main-nfvics-projects.vercel.app
+
+
+
 travel-track-book-pi6xlxkvl-nfvics-projects.vercel.app
 
 ----
@@ -59,8 +66,11 @@ npm run dev
 -----
 SCREENSHOTS
 PASSENGERS
+
 <img width="1341" height="666" alt="image" src="https://github.com/user-attachments/assets/aedbbf9a-b593-484e-9ac3-a5f494bbd259" />
+
 <img width="1346" height="652" alt="image" src="https://github.com/user-attachments/assets/01c1443b-dff5-4b48-8cce-52cb13f2e621" />
+
 
 <img width="1344" height="675" alt="image" src="https://github.com/user-attachments/assets/4f09d8d0-48a3-46ae-8fa7-6bbbe98931b6" />
 OPERATORS
